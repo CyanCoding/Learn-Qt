@@ -10,9 +10,10 @@ Just a simple notepad app written in QT :) 📓
 - Creating menus
 
 ## Building on your machine
-1. Make sure you have installed `qmake` and `make` (instructions **here** (link needed)).
-2. `qmake`
-3. `make`
+1. Install `qmake` with `sudo apt install qt5-default qt5-qmake`
+2. Navigate to the directory
+3. `qmake`
+4. `make`
 
 The project folder should now contain an executable file.
 
